@@ -1,5 +1,7 @@
 ## Credit Card Fraud Detection (in process)
 
+**Стек:** Python, Pandas, Numpy, Sklearn, Tensorflow, Seaborn
+
 #### Краткое описание проекта
 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
