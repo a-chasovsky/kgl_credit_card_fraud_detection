@@ -1,6 +1,6 @@
 ## Credit Card Fraud Detection (in process)
 
-**Стек:** Python, Pandas, Numpy, Sklearn, Tensorflow, Seaborn
+**Стек:** Python, Numpy, Pandas, Sklearn, Tensorflow, Seaborn
 
 ### Краткое описание проекта
 
